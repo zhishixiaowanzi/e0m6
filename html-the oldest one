@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>张智轩的实验网页</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+  <h1>Zhang Zhixuan's encyclopedia</h1>
+  <h1>First.
+  1.Game area</h1>
+  <p>Games are called the Ninth Art, and the reason for this is that some of the best games, such as Cyberpunk 2077, Minecraft, Forza Horizon 4 or Forza Horizon 5, are so well received.</p>
+  </body>
+</html>
